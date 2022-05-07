@@ -1,0 +1,23 @@
+body { color:white;
+/* background-color: #49624B; */
+/* background-repeat:repeat;  */
+background-image:url('https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif');
+background-position: center;
+background-size: cover;
+}
+
+
+h1 { color: grey}
+h4 {text-align: center;}
+
+ul li {list-style-position:inside;}
+
+
+.do_underline {text-decoration: underline;
+color: red}
+
+.list1 {margin-left: 40%;
+  display: inline-block;
+}
+
+a:hover {color:yellow;}
